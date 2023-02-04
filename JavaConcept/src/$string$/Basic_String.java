@@ -14,7 +14,7 @@ public class Basic_String {
 		String str7="";
 		
 		
-		System.out.println(str1 + str2);//Concatenation
+		System.out.println(str1 + str2+ str3);//Concatenation
 		System.out.println(str1.concat(str2));//Concatenation
 		System.out.println(str3.length());
 		System.out.println(str4.toLowerCase());
